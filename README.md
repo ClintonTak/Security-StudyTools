@@ -1,5 +1,5 @@
 ### Summary:
-These are the study tools I used to prepare for the compTia Security + exam. According to the comptia website prior to taking the exam one should pass the Network + exam in addition to 2 years of network administration work experience. In my opinion this is not necessary. Simply buy a study guide/ prep book or watch the compTia Security + course on Pluralsight led by Christopher Rees and look over my notes. Then make some flash cards with relevant port numbers and acronyms and anything else you need to drill down and take the exam. 
+These are the study tools I used to prepare for the compTia Security + exam. According to the comptia website prior to taking the exam one should pass the Network + exam in addition to 2 years of network administration work experience. In my opinion this is not necessary. Simply buy a study guide/ prep book or find a compTia class online to watch (I recommend watching the class on pluralsight.com led by Christopher Rees) and look over my notes. Then make some flash cards with relevant port numbers and acronyms and anything else you need to drill down and take the exam. 
 
 ### Websites used:
 - https://certification.comptia.org/certifications/security 
